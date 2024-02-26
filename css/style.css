@@ -1,0 +1,16 @@
+:root {
+    --color1: #d3b87e;
+    --color2: #821919;
+}
+
+header, footer, section{
+    padding: 100px 0;
+}
+
+header {
+    padding: 300px 0;
+}
+
+header {
+    background: var(--color1)
+}
