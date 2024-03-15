@@ -3,14 +3,18 @@
     --color2: #821919;
 }
 
-header, footer, section{
-    padding: 100px 0;
-}
-
-header {
+#main {
     padding: 300px 0;
 }
 
-header {
+#main {
     background: var(--color1)
+}
+
+#about{
+    text-align: center
+}
+
+#about{
+    padding: 50px 0;
 }
